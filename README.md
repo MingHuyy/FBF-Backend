@@ -1,4 +1,4 @@
-# Football Booking Facility - Backend API
+# Football Field Booking App - Backend API
 
 Backend API cho hệ thống đặt sân bóng đá, xây dựng với Spring Boot.
 
@@ -63,7 +63,3 @@ Server sẽ chạy tại: `http://localhost:3636`
 - 🚧 Quản lý đặt sân (Booking) - Coming soon
 - 🚧 Quản lý người dùng (User) - Coming soon
 - 🚧 Quản lý dịch vụ (Service) - Coming soon
-
-## Author
-
-MingHuyy
